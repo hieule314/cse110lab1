@@ -10,7 +10,7 @@ As a programmer, I love working in teams and creating interesting projects that 
 I enjoy watching Anime, playing badminton, poker, BTD6, SSBU, and going to the gym.
 
 ## Picture
-[My dog](poppydog.jpg)
+[My dog](screenshots/poppydog.jpg)
 
 ### Styling text
 **wow this is pretty fire**
@@ -21,11 +21,11 @@ I enjoy watching Anime, playing badminton, poker, BTD6, SSBU, and going to the g
 
 ## Quoting code
 Some goated Git commands are:
-'''
+```
 git status
 git add
 git commit
-'''
+```
 
 ## External links
 This site was built using [Github Pages](https://pages.github.com/)
